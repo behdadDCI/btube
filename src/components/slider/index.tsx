@@ -5,7 +5,7 @@ const Slider = () => {
     return (
         <div className=" relative  ">
           <div className="shadow-sm shadow-zinc-600 rounded-2xl">
-          <img className="w-full h-[500px] rounded-2xl" src="../public/images/John-Wick-3.jpg " alt="" />
+          <img className="w-full h-[500px] rounded-2xl" src="/images/John-Wick-3.jpg " alt="" />
           </div>
           <div className=" absolute flex left-10  bottom-32 text-md font-bold items-center gap-4">
                 <div className="flex items-center gap-2">
