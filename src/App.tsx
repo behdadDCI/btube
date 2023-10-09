@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
 import Header from "./components/header";
-import Slider from "./components/slider";
+
 
 const App = () => {
   return (
